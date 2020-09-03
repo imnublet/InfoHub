@@ -703,7 +703,7 @@ MigrationBackup/
 
 
 # Venv
-.env
-venv
+.env/
+venv/
 # End of https://www.toptal.com/developers/gitignore/api/macos,visualstudio,pycharm,django,visualstudiocode,python
 

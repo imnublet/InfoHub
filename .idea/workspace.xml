@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="290a09bd-af4c-4e7e-a754-aa470ea0e331" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,7 +80,7 @@
             <entry file="file://$PROJECT_DIR$/.gitignore">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="852">
-                  <caret line="706" column="4" selection-start-line="706" selection-start-column="4" selection-end-line="706" selection-end-column="4" />
+                  <caret line="706" column="5" selection-start-line="706" selection-start-column="5" selection-end-line="706" selection-end-column="5" />
                 </state>
               </provider>
             </entry>
@@ -324,12 +325,12 @@
       <workItem from="1595779324651" duration="165000" />
       <workItem from="1598780736829" duration="1023000" />
       <workItem from="1598783662531" duration="8747000" />
-      <workItem from="1599133842668" duration="6081000" />
+      <workItem from="1599133842668" duration="6179000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29896000" />
+    <option name="totallyTimeSpent" value="29994000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -477,7 +478,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="852">
-          <caret line="706" column="4" selection-start-line="706" selection-start-column="4" selection-end-line="706" selection-end-column="4" />
+          <caret line="706" column="5" selection-start-line="706" selection-start-column="5" selection-end-line="706" selection-end-column="5" />
         </state>
       </provider>
     </entry>
